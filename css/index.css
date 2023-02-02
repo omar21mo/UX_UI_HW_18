@@ -111,7 +111,7 @@ footer{
 
 .imgP1{
     grid-area: imgP1;    
-    background-image: url(/images/merch\ st.png);
+    background-image: url(../images/merch\ st.png);
     background-size: cover;
     justify-content: space-around;  
     background-position: center;
@@ -129,7 +129,7 @@ footer{
 
 .imgP2{
     grid-area: imgP2;
-    background-image: url(/images/cfia.png);
+    background-image: url(../images/cfia.png);
     background-size: cover;
     justify-content: space-around;  
     background-position:left
